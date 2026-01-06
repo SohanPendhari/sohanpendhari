@@ -65,14 +65,6 @@ I enjoy creating **clean, responsive, and user-friendly interfaces** and continu
 
 ---
 
-## 📫 Contact Me
-
-- 📧 Email: **sohanashok.pendhari2004@gmail.com**  
-- 📱 Phone: **+91 90219 60570**  
-- 📍 Location: **Panvel, Navi Mumbai, India**
-
----
-
 <p align="center">
 ✨ Code with logic • Design with passion • Build with purpose ✨
 </p>
