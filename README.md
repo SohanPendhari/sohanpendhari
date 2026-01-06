@@ -12,19 +12,6 @@ I enjoy creating **clean, responsive, and user-friendly interfaces** and continu
 
 ---
 
-## 🎓 Education
-
-- **B.Sc. in Computer Science** (2023–2026)  
-  *K.B.P. College, Vashi* *(Currently Pursuing)*
-
-- **Higher Secondary (Science)** – 2023  
-  *V.K. College, Panvel*
-
-- **Secondary School** – 2021  
-  *Angels Paradis School, Aurangabad*
-
----
-
 ## 🛠️ Skills
 
 ### 💻 Technical Skills
