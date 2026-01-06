@@ -1,55 +1,78 @@
-## Hi there 👋 I'm Sohan Pendhari
-
-🎨 Frontend Designer | 💻 Full-Stack Developer  
-📱 Building Mobile Apps, Web Apps & Websites  
+<h1 align="center">Hi 👋, I'm Sohan Pendhari</h1>
+<h3 align="center">Computer Science Student | Frontend Designer | Aspiring Full-Stack Developer</h3>
 
 ---
 
-### 🚀 About Me
-I am a passionate developer with strong frontend design skills and basic backend knowledge.  
-I enjoy building clean, user-friendly applications and learning new technologies to improve my development skills.
+## 👨‍💻 About Me
+
+I am a motivated **B.Sc. Computer Science student (2023–2026)** with a strong foundation in programming, web development, and problem-solving.  
+I am passionate about **technology, frontend design**, and have a growing interest in **backend development and secure software solutions**.
+
+I enjoy creating **clean, responsive, and user-friendly interfaces** and continuously learning new technologies to improve my skills.
 
 ---
 
-### 🛠️ Tech Stack
+## 🎓 Education
 
-**Frontend**
-- HTML, CSS, JavaScript
-- UI / UX Design
+- **B.Sc. in Computer Science** (2023–2026)  
+  *K.B.P. College, Vashi* *(Currently Pursuing)*
 
-**Backend (Basics)**
-- Java
-- Python
-- PHP
+- **Higher Secondary (Science)** – 2023  
+  *V.K. College, Panvel*
 
-**Currently Learning**
-- ASP.NET (Windows Application Development)
-
-**Databases**
-- MySQL
-- MongoDB (Basic)
+- **Secondary School** – 2021  
+  *Angels Paradis School, Aurangabad*
 
 ---
 
-### 📌 What I Do
-- Design modern and responsive user interfaces  
-- Develop web and mobile applications  
-- Work with backend logic and databases  
-- Continuously learn and improve my skills  
+## 🛠️ Skills
+
+### 💻 Technical Skills
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend (Basics):** Java, Python, PHP  
+- **Databases:** SQL, MongoDB (Basic)  
+- **Design Tools:** Canva, Figma (Basic), CorelDRAW (Basic)  
+
+### 🎨 Design
+- Web Design  
+- Frontend Development  
+- UI / UX Basics  
 
 ---
 
-### 🌱 Current Focus
-- ASP.NET for Windows App Development  
-- Strengthening backend concepts  
-- Building real-world projects  
+## 📂 Projects
+
+### 📌 College Projects
+- Designed responsive web pages using **HTML, CSS, and JavaScript**
+- Built a **basic database-driven application** using SQL
+- Developed **basic Java and Python programs** for academic assignments
 
 ---
 
-### 🤝 Let’s Connect
-Feel free to explore my repositories and projects.  
-I’m always open to learning, collaboration, and new opportunities.
+## 🌱 Currently Learning
+
+- **ASP.NET** for Windows Application Development  
+- Improving backend concepts  
+- Real-world application architecture
 
 ---
 
-⭐ *Code with purpose. Design with passion.*
+## 🤝 Soft Skills
+
+- Communication  
+- Problem Solving  
+- Teamwork  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **sohanashok.pendhari2004@gmail.com**  
+- 📱 Phone: **+91 90219 60570**  
+- 📍 Location: **Panvel, Navi Mumbai, India**
+
+---
+
+<p align="center">
+✨ Code with logic • Design with passion • Build with purpose ✨
+</p>
