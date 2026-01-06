@@ -29,7 +29,6 @@ I enjoy creating **clean, responsive, and user-friendly interfaces** and continu
 
 ## 📂 Projects
 
-### 📌 College Projects
 - Designed responsive web pages using **HTML, CSS, and JavaScript**
 - Built a **basic database-driven application** using SQL
 - Developed **basic Java and Python programs** for academic assignments
