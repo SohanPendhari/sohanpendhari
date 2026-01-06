@@ -1,16 +1,55 @@
-## Hi there 👋
+## Hi there 👋 I'm Sohan Pendhari
 
-<!--
-**SohanPendhari/sohanpendhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Frontend Designer | 💻 Full-Stack Developer  
+📱 Building Mobile Apps, Web Apps & Websites  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I am a passionate developer with strong frontend design skills and basic backend knowledge.  
+I enjoy building clean, user-friendly applications and learning new technologies to improve my development skills.
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript
+- UI / UX Design
+
+**Backend (Basics)**
+- Java
+- Python
+- PHP
+
+**Currently Learning**
+- ASP.NET (Windows Application Development)
+
+**Databases**
+- MySQL
+- MongoDB (Basic)
+
+---
+
+### 📌 What I Do
+- Design modern and responsive user interfaces  
+- Develop web and mobile applications  
+- Work with backend logic and databases  
+- Continuously learn and improve my skills  
+
+---
+
+### 🌱 Current Focus
+- ASP.NET for Windows App Development  
+- Strengthening backend concepts  
+- Building real-world projects  
+
+---
+
+### 🤝 Let’s Connect
+Feel free to explore my repositories and projects.  
+I’m always open to learning, collaboration, and new opportunities.
+
+---
+
+⭐ *Code with purpose. Design with passion.*
